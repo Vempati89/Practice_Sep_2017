@@ -33,10 +33,10 @@ Feature: Flight Search Functionality
 
 
 
-##Declarative
-#  Scenario: verify the user gets the list of flights available for the dates specified
-#    When user searches for a valid airports for the future date
-#    And verify the list of airports should match the dates specified
+Declarative
+  Scenario: verify the user gets the list of flights available for the dates specified
+    When user searches for a valid airports for the future date
+    And verify the list of airports should match the dates specified
 
 
 
