@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6619fcf-7e3d-44ca-b69c-544591af8896" name="Default" comment="new scenario was added">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Practice_Sep_2017.iml" afterPath="$PROJECT_DIR$/.idea/Practice_Sep_2017.iml" />
+    <list default="true" id="b6619fcf-7e3d-44ca-b69c-544591af8896" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -250,7 +249,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505650062772</updated>
-      <workItem from="1505650064371" duration="3173000" />
+      <workItem from="1505650064371" duration="3217000" />
     </task>
     <task id="LOCAL-00001" summary="new scenario was added">
       <created>1505651898723</created>
@@ -266,11 +265,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505652004946</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new scenario was added">
+      <created>1505653557006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1505653557006</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3173000" />
+    <option name="totallyTimeSpent" value="3217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
